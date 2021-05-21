@@ -17,6 +17,7 @@
     - [Mapping Object ID to PK](docs/CompositeTypeMapping.md#mapping-object-id-to-pk)
     - [Mapping Composite Identity to PK](docs/CompositeTypeMapping.md#mapping-composite-identity-to-pk)
     - [Mapping Composite Identity to Composite Keys - Not Yet](docs/CompositeTypeMapping.md#mapping-composite-identity-to-composite-keys)
+    - [Mapping Composite Identity ID with SurrogateKeys]()
   
   
 ## Dependencies 
